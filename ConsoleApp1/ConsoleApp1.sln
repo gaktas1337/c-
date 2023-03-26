@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classİntro", "..\Classİnt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ödev1", "..\Ödev1\Ödev1.csproj", "{B962BDB2-1BA7-4AC4-94A7-1F5841E3E4B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "..\Metotlar\Metotlar.csproj", "{D1D3FAB5-D3D9-4EE1-8EA1-1730D5328780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B962BDB2-1BA7-4AC4-94A7-1F5841E3E4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B962BDB2-1BA7-4AC4-94A7-1F5841E3E4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B962BDB2-1BA7-4AC4-94A7-1F5841E3E4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D3FAB5-D3D9-4EE1-8EA1-1730D5328780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D3FAB5-D3D9-4EE1-8EA1-1730D5328780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D3FAB5-D3D9-4EE1-8EA1-1730D5328780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D3FAB5-D3D9-4EE1-8EA1-1730D5328780}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
