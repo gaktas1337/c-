@@ -1,1 +1,1 @@
-# Hey im learning C# with this repository.
+# Hi! im learning C# with this repository.
